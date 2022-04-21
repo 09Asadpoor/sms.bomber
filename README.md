@@ -1,1 +1,1 @@
-# sms.bomber
+This is a slow version of SMS Bomber.  It only has one drawback, which is slower than the fast version, but it definitely sends messages.  In the same repository there is a fast version where messages are sent faster but may be sent.
